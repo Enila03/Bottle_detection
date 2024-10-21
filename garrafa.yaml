@@ -1,0 +1,11 @@
+path: ./  
+
+train: D:/Documentos/TCC/datasets/garrafa/images/train  
+val: D:/Documentos/TCC/datasets/garrafa/images/val  
+
+test: D:/Documentos/TCC/datasets/garrafa/images/test
+
+# Classes
+names:
+  0: garrafa pet
+  
